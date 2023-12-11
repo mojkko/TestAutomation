@@ -14,4 +14,3 @@ Before running the tests, make sure you have the following installed:
 Necessary for running the test, you need to update the WebDriver path in "Base" class:  System.setProperty("webdriver.chrome.driver", "/path/to/chromedriver");
 
 
-Adjust the template according to your project's specifics. Include details that might be important for someone else to understand and run your project. This README helps users, including yourself, to quickly grasp the purpose of the project, set it up, and run the tests.
